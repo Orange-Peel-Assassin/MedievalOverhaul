@@ -134,9 +134,9 @@
 				<li>
 					<def>AnimalAdult</def>
 					<minAge>0</minAge>
-					<soundWounded>Pawn_Warg_Wounded</soundWounded>
-					<soundDeath>Pawn_Warg_Death</soundDeath>
-					<soundAngry>Pawn_Warg_Angry</soundAngry>
+					<soundWounded>Pawn_Monkey_Wounded</soundWounded>
+					<soundDeath>Pawn_Monkey_Death</soundDeath>
+					<soundAngry>Pawn_Monkey_Angry</soundAngry>
 				</li>
 			</lifeStageAges>
 			<soundMeleeHitPawn>Pawn_Melee_BigBash_HitPawn</soundMeleeHitPawn>

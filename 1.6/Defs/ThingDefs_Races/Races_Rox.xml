@@ -109,10 +109,10 @@
 				<li>
 					<def>AnimalAdult</def>
 					<minAge>4.0</minAge>
-					<soundCall>Pawn_Thrumbo_Call</soundCall>
-					<soundAngry>Pawn_Thrumbo_Angry</soundAngry>
-					<soundWounded>Pawn_Thrumbo_Pain</soundWounded>
-					<soundDeath>Pawn_Thrumbo_Death</soundDeath>
+					<soundCall>Pawn_Bison_Call</soundCall>
+					<soundAngry>Pawn_Bison_Angry</soundAngry>
+					<soundWounded>Pawn_Bison_Pain</soundWounded>
+					<soundDeath>Pawn_Bison_Death</soundDeath>
 				</li>
 			</lifeStageAges>
 			<soundMeleeHitPawn>Pawn_Melee_BigBash_HitPawn</soundMeleeHitPawn>
